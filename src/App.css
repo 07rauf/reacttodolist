@@ -1,0 +1,22 @@
+div{
+    margin-left: 25%;
+    margin-top: 20%;
+}
+.button1{
+    margin-top: 20px;
+    margin-left: 45px;
+    border-radius: 10px;
+    background-color: green;
+}
+.button3{
+    margin-left: 58px;
+    border-radius: 10px;
+}
+.input1{
+    border-radius: 10px;
+}
+.button2{
+    margin-left: 10px;
+    border-radius: 10px;
+    background-color: red;
+}
